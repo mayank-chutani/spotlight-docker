@@ -12,4 +12,5 @@ and finally
 
     docker run -i -p 2222:80 english_spotlight spotlight.sh
 
-
+### How to use
+    http://localhost:2222/rest/annotate?text=Berlin&confidence=0.5
